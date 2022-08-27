@@ -1,0 +1,11 @@
+- [ ] Ask for which type of project
+- [ ] Project related questions
+    - [ ] React
+        - [ ] In current or some other location
+        - [ ] Additional dependencies
+        - [ ] Open the project in vs code
+    - [ ] Full stack
+        - [ ] In current or some other location
+        - [ ] Additional dependencies for client
+        - [ ] Additional dependencies for server
+        - [ ] Open the project in vs code
