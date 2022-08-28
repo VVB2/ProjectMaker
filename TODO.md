@@ -1,11 +1,21 @@
-- [ ] Ask for which type of project
-- [ ] Project related questions
-    - [ ] React
-        - [ ] In current or some other location
-        - [ ] Additional dependencies
-        - [ ] Open the project in vs code
-    - [ ] Full stack
-        - [ ] In current or some other location
-        - [ ] Additional dependencies for client
-        - [ ] Additional dependencies for server
-        - [ ] Open the project in vs code
+- [x] Ask for which type of project
+- [x] Project related questions
+  - [x] React
+      - [x] In current or some other location
+      - [x] Additional dependencies
+      - [x] Open the project in vs code
+  - [x] Full stack
+      - [x] In current or some other location
+      - [x] Additional dependencies for client
+      - [x] Additional dependencies for server
+      - [x] Open the project in vs code
+- [ ] Implementation of the answers provided
+  - [ ] React
+      - [ ] In current or some other location
+      - [ ] Additional dependencies
+      - [ ] Open the project in vs code
+  - [ ] Full stack
+      - [ ] In current or some other location
+      - [ ] Additional dependencies for client
+      - [ ] Additional dependencies for server
+      - [ ] Open the project in vs code 

@@ -1,5 +1,28 @@
 {
+  "name": "projectmaker",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VVB2/ProjectMaker.git"
+  },
+  "author": "VVB2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VVB2/ProjectMaker/issues"
+  },
+  "homepage": "https://github.com/VVB2/ProjectMaker#readme",
+  "description": "",
   "dependencies": {
     "inquirer": "^9.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
